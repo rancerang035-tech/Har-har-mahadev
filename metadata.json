@@ -1,0 +1,7 @@
+{
+  "name": "Ludo Gold - Zupee Clone",
+  "description": "A premium real-time multiplayer Ludo game with admin dashboard, rewards system, and secure authentication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
